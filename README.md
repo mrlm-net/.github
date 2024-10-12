@@ -4,7 +4,7 @@ Here you can find all the documentation and guidelines related to this organizat
 
 | Package | `mrlm-net/.gihub` |
 | :-- | :-- |
-| Latest version | ![GitHub Release](https://img.shields.io/github/v/release/mrlm-net/.github) |
+| Latest version | ![GitHub Tag](https://img.shields.io/github/v/tag/mrlm-net/.github) |
 | License | ![GitHub License](https://img.shields.io/github/license/mrlm-net/.github) |
 
 ## Table of Contents

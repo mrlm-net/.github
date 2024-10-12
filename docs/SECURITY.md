@@ -1,6 +1,6 @@
 # MRLM.net Security Policy
 
-> _In case you observe any potential vulnebrality in packages released under this organization please contact us on `support@mrlm.net`_
+> _In case you observe any potential vulnebrality in packages released under this organization please contact us on `support@mrlm.net`._
 
 ## Table of Contents
 

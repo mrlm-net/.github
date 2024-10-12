@@ -7,6 +7,13 @@ If you'd like to propose an idea for new feature please visit [projects](https:/
 
 If you'd like to contribute you can check one of the following guidelines.
 
+| MRLM.net |  |
+| :-- | :-- |
+| Documentation | ![GitHub Release](https://img.shields.io/github/v/release/mrlm-net/.github) |
+| License | ![GitHub License](https://img.shields.io/github/license/mrlm-net/.github) |
+
+## Table of Contents
+
 - [Code of Conduct](./../docs/CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](./../docs/CONTRIBUTING.md)
 - [Governance Guidelines](./../docs/GOVERNANCE.md)

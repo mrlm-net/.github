@@ -3,7 +3,7 @@
 Here you can find all the documentation and guidelines related to this organization.
 
 | MRLM.net |  |
-| :-- | :--: |
+| :-- | :-- |
 | Documentation | ![GitHub Release](https://img.shields.io/github/v/release/mrlm-net/.github) |
 | License | ![GitHub License](https://img.shields.io/github/license/mrlm-net/.github) |
 

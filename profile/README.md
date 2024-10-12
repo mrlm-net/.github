@@ -9,7 +9,7 @@ If you'd like to contribute you can check one of the following guidelines.
 
 | MRLM.net |  |
 | :-- | :-- |
-| Documentation | ![GitHub Release](https://img.shields.io/github/v/release/mrlm-net/.github) |
+| Latest version | ![GitHub Release](https://img.shields.io/github/v/release/mrlm-net/.github) |
 | License | ![GitHub License](https://img.shields.io/github/license/mrlm-net/.github) |
 
 ## Table of Contents

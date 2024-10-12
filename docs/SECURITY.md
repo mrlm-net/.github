@@ -13,7 +13,7 @@
 
 ## Packages Versioning
 
-All of our packages are using `Semantic versiong` as [described here](https://semver.org/). We release patches for security vulnerabilities for all stable versions of our public packages, all repositories are also scanned for depedency vulnebraties continously. Vulnerable versions are marked as deprecated.
+All of our packages are using [`Semantic versiong`](https://semver.org/). We release patches for security vulnerabilities for all stable versions of our public packages, all repositories are also scanned for depedency vulnebraties continously. Vulnerable versions are marked as deprecated.
 
 ## Reporting a Vulnerability
 

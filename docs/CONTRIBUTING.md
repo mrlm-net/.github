@@ -53,4 +53,6 @@ This project adheres to the Contributor Covenant [Code of Conduct](./CODE_OF_CON
 
 If you need help, feel free to reach out by opening an issue on our GitHub repository or contacting us at `support@mrlm.net`.
 
-Thank you for contributing!
+> _Thank you for contributing!_
+---
+<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek [<@marley-ma>](https://github.com/marley-ma) and WANTED.solutions s.r.o. [<@wanted-solutions>](https://github.com/wanted-solutions)_</sub></sup>

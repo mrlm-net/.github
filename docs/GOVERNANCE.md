@@ -76,4 +76,4 @@ These governance guidelines may be amended by the owners. Proposed changes shoul
 
 > _Thank you for being a part of the MRLM.net community!_
 ---
-<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek <[@marley-ma](https://github.com/marley-ma)> and WANTED.solutions s.r.o. <[@wanted-solutions](https://github.com/wanted-solutions)>_</sub></sup>
+<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek [<@marley-ma>](https://github.com/marley-ma) and WANTED.solutions s.r.o. [<@wanted-solutions>](https://github.com/wanted-solutions)_</sub></sup>

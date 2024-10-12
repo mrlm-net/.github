@@ -58,4 +58,4 @@ If you have any questions or need further assistance, please contact us at `supp
 
 > _Thank you for helping us keep MRLM.net secure!_
 ---
-<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek <[@marley-ma](https://github.com/marley-ma)> and WANTED.solutions s.r.o. <[@wanted-solutions](https://github.com/wanted-solutions)>_</sub></sup>
+<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek [<@marley-ma>](https://github.com/marley-ma) and WANTED.solutions s.r.o. [<@wanted-solutions>](https://github.com/wanted-solutions)_</sub></sup>

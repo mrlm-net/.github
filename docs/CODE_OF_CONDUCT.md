@@ -87,4 +87,4 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 For answers to common questions about this code of conduct, contact us at `support@mrlm.net`.
 
 ---
-<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek <[@marley-ma](https://github.com/marley-ma)> and WANTED.solutions s.r.o. <[@wanted-solutions](https://github.com/wanted-solutions)>_</sub></sup>
+<sup><sub>_2024 &copy; All rights reserved - Martin Hrášek [<@marley-ma>](https://github.com/marley-ma) and WANTED.solutions s.r.o. [<@wanted-solutions>](https://github.com/wanted-solutions)_</sub></sup>

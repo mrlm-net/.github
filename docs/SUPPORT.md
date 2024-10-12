@@ -2,6 +2,13 @@
 
 Thank you for using MRLM.net! This document outlines the support guidelines for our projects.
 
+## Table of Contents
+
+- [Getting Help](#getting-help)
+- [Response Time](#response-time)
+- [Community Support](#community-support)
+- [Code of Conduct](#code-of-conduct)
+
 ## Getting Help
 
 If you need help with any of our projects, please follow these steps:
@@ -30,7 +37,7 @@ If you need further assistance or have a private matter to discuss, you can cont
 
 ## Response Time
 
-We strive to respond to all support requests within 72 hours. However, response times may vary depending on the complexity of the issue and our current workload.
+We strive to respond to all support requests within 72 hours. However, response times may vary depending on the complexity of the issue and our current workload. This is valid for all of our published open source packages and products.
 
 ## Community Support
 
@@ -41,6 +48,5 @@ We encourage users to help each other by participating in discussions and answer
 Please note that all interactions in our support channels are subject to our [Code of Conduct](./CODE_OF_CONDUCT.md). We expect all users to be respectful and considerate in their communications.
 
 > _Thank you for your support and for being a part of the MRLM.net community!_
-
 ---
 <sup><sub>_2024 &copy; All rights reserved - Martin Hrášek <[@marley-ma](https://github.com/marley-ma)> and WANTED.solutions s.r.o. <[@wanted-solutions](https://github.com/wanted-solutions)>_</sub></sup>
